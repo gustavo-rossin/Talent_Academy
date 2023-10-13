@@ -26,3 +26,10 @@ Em seguida, para responder a ```questão a``` listei todos os usuários que trab
 Na ```questão b```, fiz 2 INNER JOIN para relacionar as tabelas de usuarios e Empresas com a tabela de PesquisaClima. Além disso, coloquei alias nos nomes para ficarem mais legíveis.
 
 Por fim, na ```questão c```, fiz a selação do usuário com o maior rating dado a partir de selecionar os valores de forma descendente e limitei para mostrar apenas o primeiro valor.
+
+
+<hr>
+
+Obrigado pela oportunidade. Espero vê-los em breve!
+
+Abraços, Gustavo!
