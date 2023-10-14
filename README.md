@@ -3,7 +3,11 @@ Oi gente, tudo bem com vocês?
 
 Vou explicar um pouco de como realizei o case.
 
-Subi o arquivo para o meu github para também ter uma segurança a mais para comprovar o horário realizado do case e também mostrar que mantenho um github ativo que talvez possa ser interessante!
+Subi o arquivo para o meu github mostrar que mantenho um github ativo que talvez possa ser interessante!
+
+### Setup:
+
+Primeiramente, eu criei uma imagem no Docker do MySQL para criar o servidor dentro do container.
 
 ### Em relação a questão 1:
 
